@@ -1,0 +1,52 @@
+body {
+    background-color: #f4f6ff;
+}
+
+h1 {
+    background-color: #b6eb7a;
+    color: #17706e;
+    text-align: center;
+    text-justify: auto;
+    height: 10vh;
+}
+
+ul {
+    background-color: #cff6cf;
+}
+
+li {
+    text-align: center;
+    list-style-position: inside;
+    font-size: 25px;
+    list-style: none;
+    margin-left: auto;
+}
+
+.alphabetBtns {
+    background-color: #cfe5cf;
+    height: 100vh;
+}
+
+.btn {
+    font-size: larger;
+    height: 14vh;
+    width: 14vh;
+    border-radius: 20%;
+    border: solid 5px;
+    margin: 7px;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
