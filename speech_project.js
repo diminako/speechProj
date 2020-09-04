@@ -129,86 +129,85 @@ btnN.addEventListener("click", function(){
 })
 
 btnO.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Office";
+    li2.textContent = "Open";
+    li3.textContent = "Original";
+    li4.textContent = "Orange";
 })
 
 btnP.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Purple";
+    li2.textContent = "Plenty";
+    li3.textContent = "Pizza";
+    li4.textContent = "Puppy";
 })
 
 btnQ.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Query";
+    li2.textContent = "Question";
+    li3.textContent = "Quad";
+    li4.textContent = "Quack";
 })
 
 btnR.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Record";
+    li2.textContent = "Reach";
+    li3.textContent = "Read";
+    li4.textContent = "Rad";
 })
 
 btnS.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Street";
+    li2.textContent = "Scuba";
+    li3.textContent = "Sports";
+    li4.textContent = "Slap";
 })
 
 btnT.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Toy";
+    li2.textContent = "Truck";
+    li3.textContent = "Trash";
+    li4.textContent = "Tune";
 })
 
 btnU.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Ugly";
+    li2.textContent = "Unicorn";
+    li3.textContent = "Unicycle";
+    li4.textContent = "Up";
 })
 
 btnV.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Verb";
+    li2.textContent = "Valiant";
+    li3.textContent = "Versus";
+    li4.textContent = "Veteran";
 })
 
 btnW.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Wave";
+    li2.textContent = "Write";
+    li3.textContent = "Warp";
+    li4.textContent = "Wallop";
 })
 
 btnX.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Xeno";
+    li2.textContent = "X-ray";
+    li3.textContent = "Xylophone";
+    li4.textContent = "Xiaosaurus";
 })
 
 btnY.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Yes";
+    li2.textContent = "Yak";
+    li3.textContent = "Young";
+    li4.textContent = "Yellow";
 })
 
 btnZ.addEventListener("click", function(){
-    li1.textContent = "Blah blabbity blah";
-    li2.textContent = "Blah blabbity blah";
-    li3.textContent = "Blah blabbity blah";
-    li4.textContent = "Blah blabbity blah";
+    li1.textContent = "Zebra";
+    li2.textContent = "Zero";
+    li3.textContent = "Zig-Zag";
+    li4.textContent = "Zoom";
 })
-
